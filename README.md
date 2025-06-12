@@ -23,6 +23,8 @@ Output Summary
 - Total Students: 5
 - Average Score: 87.6
 - Top Scorer: Zaid (95)
+  
+  [generated_report.pdf](https://github.com/user-attachments/files/20707031/generated_report.pdf)
 
 Completed By
 Mohammad Rizwan  
