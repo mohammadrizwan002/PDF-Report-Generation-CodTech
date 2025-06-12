@@ -1,0 +1,5 @@
+Name: Ali, Score: 85
+Name: Sara, Score: 92
+Name: John, Score: 78
+Name: Ayesha, Score: 88
+Name: Zaid, Score: 95
