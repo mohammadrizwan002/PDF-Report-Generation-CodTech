@@ -1,7 +1,9 @@
 PDF-Report-Generation-CodTech
+
 CodTech Internship Task 2 – PDF Report Generation using Python
 
-Objective
+Objective :-
+
 This task reads student score data from a file, performs basic analysis, and generates a formatted PDF report using Python. It covers file reading, data parsing, and report formatting using the FPDF library.
 
 Tools and Libraries Used
